@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-07-20 17:22+0200\n"
+"POT-Creation-Date: 2026-07-22 17:28+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -16,23 +16,23 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 "X-Poedit-SearchPath-0: ../.\n"
 
-#: .././wpu_two_factor.php:53
+#: .././wpu_two_factor.php:81
 msgid "Additional features for the official two factor plugin"
 msgstr ""
-"Fonctionnalités supplémentaires pour le plugin officiel d'authentification "
-"à deux facteurs"
+"Fonctionnalités supplémentaires pour le plugin officiel d'authentification à "
+"deux facteurs"
 
-#: .././wpu_two_factor.php:73
+#: .././wpu_two_factor.php:98 .././wpu_two_factor.php:129
+msgid "You have not enabled any two-factor authentication method."
+msgstr "Vous n'avez activé aucune méthode d'authentification à deux facteurs."
+
+#: .././wpu_two_factor.php:103 .././wpu_two_factor.php:134
 msgid ""
 "You are using a two-factor authentication method that is no longer allowed."
 msgstr ""
 "Vous utilisez une méthode d'authentification à deux facteurs qui n'est plus "
 "autorisée."
 
-#: .././wpu_two_factor.php:74
-msgid "You have not enabled any two-factor authentication method."
-msgstr "Vous n'avez activé aucune méthode d'authentification à deux facteurs."
-
-#: .././wpu_two_factor.php:80
+#: .././wpu_two_factor.php:153
 msgid "Configure now"
 msgstr "Configurer maintenant"
